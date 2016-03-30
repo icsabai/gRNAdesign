@@ -1,3 +1,2 @@
 biopython==1.65
-pyodbc==3.0.10
 
